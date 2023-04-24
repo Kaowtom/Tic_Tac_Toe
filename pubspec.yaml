@@ -1,0 +1,27 @@
+name: ticing_and_toeing
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=2.19.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.0.1
+  sqflite: ^2.0.0+3
+  path_provider: ^2.0.2
+  path: ^1.8.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - lib/assets/images/background.png
+    - lib/assets/images/logo.png
