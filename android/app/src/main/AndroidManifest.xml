@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.ticing_and_toeing">
+    package="com.example.codi">
    <application
-        android:label="ticing_and_toeing"
+        android:label="codi"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
